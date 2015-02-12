@@ -1,1 +1,13 @@
 c:\users\craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\bin\Debug\Save The Humans WPF.exe.config
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\bin\Debug\Save The Humans WPF.exe
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\bin\Debug\Save The Humans WPF.pdb
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\Save The Humans WPF.csprojResolveAssemblyReference.cache
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\MainWindow.baml
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\App.g.cs
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\Save The Humans WPF_MarkupCompile.cache
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\Save The Humans WPF.g.resources
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\Save_The_Humans_WPF.Properties.Resources.resources
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\Save The Humans WPF.csproj.GenerateResource.Cache
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\Save The Humans WPF.exe
+C:\Users\Craig\documents\visual studio 2013\Projects\Save The Humans WPF\Save The Humans WPF\obj\Debug\Save The Humans WPF.pdb
