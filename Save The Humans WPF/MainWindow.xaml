@@ -9,7 +9,7 @@
             </Grid>
         </ControlTemplate>
     </Window.Resources>
-    <Grid x:Name="grid" Background="Black" MouseMove="grid_MouseMove" MouseLeave="grid_MouseLeave">
+    <Grid x:Name="grid" Background="Black" MouseMove="playArea_MouseMove" MouseLeave="grid_MouseLeave">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="140"/>
             <ColumnDefinition/>
